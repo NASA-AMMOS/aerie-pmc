@@ -28,6 +28,17 @@ The Aerie project manager is responsible for scheduling and executing monthly st
 - Have note taker submit a PR for notes on GitHub
 - Update links in issue if necessary and close out issue
 
+---
+## Use Case Working Group
+
+The Aerie project manager is responsible for scheduling and executing Use Case Working Group meetings or delegating the responsibilities herein. The primary purpose of these meetings is to gather stakeholder input on the ways in which they plan to use Aerie and seek consensus on the scope and high-level design of upcoming tasks on the Aerie roadmap. These meetings are intended to be highly interactive between Aerie stakeholders and Aerie core collaborators. 
+
+### Meeting Scheduling and Execution
+
+- Working group meetings should be scheduled on an as-needed basis, but at least once a month to ensure some interaction with stakeholders. 
+- Meeting prep, execution, and post-meeting responsibilities are effectively the same as those for the monthly stakeholder meeting. See [Stakeholder Meeting Section](#stakeholder-meeting) of this document for details.
+
+---
 
 ## Google Groups Management
 
@@ -40,18 +51,16 @@ Aerie Users is open to the public and users should be able to add/remove themsel
 
 Aerie Support should consist of the project manager, members of the TSC, and any other collaborators who the TSC believes can assist with providing community support. 
 
-The Aerie PMC should only consist of members of the PMC. 
+The Aerie PMC group should only consist of members of the PMC. 
 
-## Use Case Working Group
-
-TO be documented...
+---
 
 ## Roadmap Planning and Management
 
-To be documented...
+- The roadmap is currently managed using [Airtable](https://www.airtable.com/)
+- Items within the roadmap are essentially agile "epics", which are bodies of work that can be broken down into specific tasks (GitHub issues) based on the needs/requests of stakeholders or users.
+- Roadmap items are divided into work by fiscal year quarter.
+- Changes to the roadmap require approval from the PMC
 
-## Document Release
-
-To be documented...
 
 
